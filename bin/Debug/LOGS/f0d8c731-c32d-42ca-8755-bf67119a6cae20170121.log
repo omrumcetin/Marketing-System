@@ -1,0 +1,4 @@
+21.01.2017 14:40:11 -> System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Single.Parse(String s)
+   at SM.recordScreen._bttn_record_Click(Object sender, EventArgs e) in d:\documents\visual studio 2015\Projects\SM\SM\recordScreen.cs:line 48
